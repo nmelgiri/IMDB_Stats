@@ -1,3 +1,11 @@
 # IMDB_Stats
 Stats project 2A Mech Eng
-Test push
+
+## Desired Data Format:
+
+|Movie Name|
+
+|
+|
+|
+
